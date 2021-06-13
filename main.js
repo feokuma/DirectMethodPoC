@@ -1,7 +1,6 @@
 "use strict";
 
-var connectionString =
-  "HostName=IoTHubOkuma.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=p8h+HKN8TPCwAh/ioN6hcmOKeJlMSzvg3yt7FyNmqQ8=";
+var connectionString = "";
 
 var Client = require("azure-iothub").Client;
 
